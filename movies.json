@@ -1,0 +1,58 @@
+{
+    "movies": [
+        {
+            "movie title": "Indiana Jones: The raiders of the lost Ark",
+            "year": "1981",
+            "rating": "PG",
+            "description": " 'Archaeologist and adventurer Indiana Jones is hired by the U.S. government to find the Ark of the Covenant before the Nazis.' "
+        },
+        {
+            "movie title": "THE KARATE KID",
+            "year": "1984",
+            "rating": "PG",
+            "description": "None provided."
+        },
+        {
+            "movie title": "Back 2 the Future",
+            "year": "1985",
+            "rating": "PG",
+            "description": "Marty McFly"
+        },
+        {
+            "movie title": "X-Men",
+            "year": "2000",
+            "rating": "PG-13",
+            "description": "Two mutants come to a private academy for their kind whose resident superhero team must oppose a terrorist organization with similar powers."
+        },
+        {
+            "movie title": "Batman Returns",
+            "year": "1992",
+            "rating": "PG13",
+            "description": "NA."
+        },
+        {
+            "movie title": "Reservoir Dogs",
+            "year": "1992",
+            "rating": "R",
+            "description": "WhAtEvER I Want!!!?!"
+        },
+        {
+            "movie title": "ALIEN",
+            "year": "1979",
+            "rating": "R",
+            "description": "\"\"\"\"\"\"\"\"\""
+        },
+        {
+            "movie title": "Ferris Bueller's Day Off",
+            "year": "1986",
+            "rating": "PG13",
+            "description": "Funny movie about a funny guy"
+        },
+        {
+            "movie title": "American Psycho",
+            "year": "2000",
+            "rating": "Unrated",
+            "description": "psychopathic Bateman"
+        }
+    ]
+}
